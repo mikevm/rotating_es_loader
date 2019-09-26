@@ -2,8 +2,8 @@
 
 Gem::Specification.new do |s|
   s.name = 'rotating_es_loader'
-  s.version = '0.0.3'
-  s.date = '2019-09-23'
+  s.version = '0.0.4'
+  s.date = '2019-09-25'
   s.summary = 'Rotating ES Loader'
   s.description = 'A base class for code that loads data into Elasticsearch'
   s.authors = ['Mike Kowdley']
